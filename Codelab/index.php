@@ -9,3 +9,5 @@ $productController = new ProductController;
 
 // Tampilkan hasil kembalian dari method getAllProduct menggunakan echo
 echo $productController->getAllProduct();
+
+?>
