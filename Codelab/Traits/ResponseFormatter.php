@@ -13,3 +13,5 @@ trait ResponseFormatter
         ]);
     }
 }
+
+?>
